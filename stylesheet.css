@@ -1,0 +1,29 @@
+#Mama { 
+    text-align: center;
+    background-color: sienna;
+}
+
+#Bee { 
+    text-align: center;
+    background-color: yellow;
+}
+
+#Me {
+    text-align: center;
+    background-color: red;
+}
+#grad {
+    background-image: linear-gradient(to botttom, sienna, yellow, red);
+}
+
+body { 
+    background-color:darkolivegreen;
+}
+
+h1 {
+    color: #053308;
+    font-size: 300%;
+    font-family: "copperplate", fantasy;
+}
+
+  
